@@ -20,3 +20,4 @@ Its an app that uses a weather API with access to over 200,000 cities current we
 
 ## Author
 - Twitter - [alwayslovechuks](https://twitter.com/alwayslovechuks)
+# WeatherApp
